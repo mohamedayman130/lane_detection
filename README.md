@@ -4,7 +4,7 @@ This project is a real-time lane detection system using OpenCV for image process
 
 ## 📸 Demo
 
-![Demo Screenshot](demo-screenshot.png) <!-- Optional: Replace with your own screenshot or remove -->
+![Screenshot 2025-06-30 202536](https://github.com/user-attachments/assets/e469af76-28a9-4ebe-bc37-fa429376d9d6)
 
 ## ⚙️ Features
 
